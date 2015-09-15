@@ -1,6 +1,9 @@
-body {
-    background-color: LightGray;
+/*Navigation Section*/
+.top-navigation {
+	background-color: #fff;
 }
-div {
-    border: 1px solid Chocolate;
+.top-navigation {
+	width: 970px;
+	height: 70 px;
+	margin:  0 auto;
 }
