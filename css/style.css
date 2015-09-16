@@ -33,3 +33,16 @@ html {
     cursor: pointer;
     color: #333333;
 }
+/*Introduction Section*/
+.introduction {
+    background-image: url('../images/first-background.jpg');
+    background-position: center bottom;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 45.938rem;
+}
+.introduction .content: h1{
+    color: white;
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+    font-weight: 300}
