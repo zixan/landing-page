@@ -41,8 +41,15 @@ html {
     background-size: cover;
     height: 45.938rem;
 }
-.introduction .content: h1{
-    color: white;
+.introduction .h1 {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    font: inherit;
+    vertical-align: baseline;
+    box-sizing: border-box;
     font-family: 'Roboto', sans-serif;
-    text-align: center;
-    font-weight: 300}
+}
+
+
